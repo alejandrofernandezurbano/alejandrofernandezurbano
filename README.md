@@ -30,7 +30,3 @@ every month — and I take them from the first meeting to production.
 **Code:** Python · C# / ASP.NET MVC · SQL Server · REST APIs · webhooks
 **AI:** OpenAI and Anthropic APIs · LLM cost control · OCR · YOLO · PyTorch · OpenCV
 **Data:** SSIS / ETL · Power BI
-
-#### Contact
-
-[LinkedIn](https://www.linkedin.com/in/alejandro-fernandez-urbano) · alejandrofernandezurbano@gmail.com
